@@ -44,7 +44,7 @@ Explore visuals by:
 - Store location (State/City)
 - Campaign performance
 
-🔗 [Dashboard Preview](https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213716.png) *(Insert dashboard image or Power BI link if possible)*
+🔗 [Dashboard Preview](https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Group_6_Assignment_3.pbix)
 
 ## 🧩 Key Visuals:
 - CLV by Loyalty Tier and Product Category (Clustered Column Chart)
@@ -61,14 +61,14 @@ Explore visuals by:
 ## 🙌 Thanks To:
 Huge thanks to **Team Yavda** for providing guidance and mentorship.
 
----
-
 🔗 [LinkedIn – Subhrajit Swain](https://www.linkedin.com/in/subhrajit-swain)
-
 📍 Bhubaneswar, Odisha, India
 
-🖼️ ![Dashboard Snapshot](dashboard-image.png) *(Replace with actual dashboard image)*
-
----
+## 🖼️ Dashboard Snapshot
+- <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213716.png">Page 1</a>
+- <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213731.png">Page 2</a>
+- <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213750.png">Page 3</a>
+- <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213851.png">Page 4</a>
+- <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213920.png">Page 5</a>
 
 #PowerBI #DataAnalytics #CustomerInsights #DAX #BusinessIntelligence #DashboardDesign #YavdaCompany #TeamProject #DataVisualization
