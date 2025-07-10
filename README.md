@@ -58,9 +58,6 @@ Explore visuals by:
 - Ankeet Kumar Sah
 - Rahul Kumar Mahto
 
-## 🙌 Thanks To:
-Huge thanks to **Team Yavda** for providing guidance and mentorship.
-
 ## 🔗 Connect With Me
 - 📧 Email: subhrajit.swain152@gmail.com  
 - 📷 Instagram: [@mr_s.u.b.h.r.a.j.i.t](https://www.instagram.com/mr_s.u.b.h.r.a.j.i.t/?hl=en)
