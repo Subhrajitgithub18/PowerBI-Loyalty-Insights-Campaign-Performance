@@ -61,8 +61,10 @@ Explore visuals by:
 ## 🙌 Thanks To:
 Huge thanks to **Team Yavda** for providing guidance and mentorship.
 
-- 🔗 [LinkedIn – Subhrajit Swain](https://www.linkedin.com/in/subhrajit-swain)
-- 📍 Bhubaneswar, Odisha, India
+## 🔗 Connect With Me
+- 📧 Email: subhrajit.swain152@gmail.com  
+- 📷 Instagram: [@mr_s.u.b.h.r.a.j.i.t](https://www.instagram.com/mr_s.u.b.h.r.a.j.i.t/?hl=en)
+- 💼 LinkedIn: <a href= "https://www.linkedin.com/in/subhrajit-swain">LinkedIn</a>
 
 ## 🖼️ Dashboard Snapshot
 - <a href="https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213716.png">Page 1</a>
