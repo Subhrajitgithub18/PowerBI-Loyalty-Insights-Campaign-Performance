@@ -1,0 +1,51 @@
+StoreID,StoreName,City,State,Country,OpenDate,ManagerID,Region,Store Age
+1,Store 1,Phoenix,IL,USA,03-03-2019 00:00:00,108,"Phoenix, IL",2305
+2,Store 2,Chicago,NY,USA,21-05-2015 00:00:00,179,"Chicago, NY",3687
+3,Store 3,Houston,AZ,USA,06-09-2022 00:00:00,118,"Houston, AZ",1022
+4,Store 4,Houston,CA,USA,04-04-2020 00:00:00,199,"Houston, CA",1907
+5,Store 5,New York,NY,USA,25-02-2023 00:00:00,157,"New York, NY",850
+6,Store 6,Chicago,TX,USA,03-04-2015 00:00:00,83,"Chicago, TX",3735
+7,Store 7,Los Angeles,IL,USA,27-08-2015 00:00:00,147,"Los Angeles, IL",3589
+8,Store 8,New York,NY,USA,24-07-2015 00:00:00,194,"New York, NY",3623
+9,Store 9,New York,NY,USA,20-02-2022 00:00:00,169,"New York, NY",1220
+10,Store 10,Phoenix,AZ,USA,27-12-2018 00:00:00,173,"Phoenix, AZ",2371
+11,Store 11,Phoenix,AZ,USA,02-09-2015 00:00:00,15,"Phoenix, AZ",3583
+12,Store 12,Phoenix,AZ,USA,11-04-2017 00:00:00,131,"Phoenix, AZ",2996
+13,Store 13,New York,TX,USA,20-02-2023 00:00:00,139,"New York, TX",855
+14,Store 14,Los Angeles,AZ,USA,22-10-2015 00:00:00,181,"Los Angeles, AZ",3533
+15,Store 15,Houston,NY,USA,11-05-2022 00:00:00,174,"Houston, NY",1140
+16,Store 16,Phoenix,AZ,USA,05-05-2017 00:00:00,30,"Phoenix, AZ",2972
+17,Store 17,Los Angeles,CA,USA,26-08-2020 00:00:00,57,"Los Angeles, CA",1763
+18,Store 18,Chicago,AZ,USA,12-03-2015 00:00:00,146,"Chicago, AZ",3757
+19,Store 19,Phoenix,TX,USA,16-07-2018 00:00:00,179,"Phoenix, TX",2535
+20,Store 20,Houston,CA,USA,10-09-2018 00:00:00,128,"Houston, CA",2479
+21,Store 21,Chicago,NY,USA,01-11-2015 00:00:00,48,"Chicago, NY",3523
+22,Store 22,Chicago,NY,USA,27-10-2017 00:00:00,194,"Chicago, NY",2797
+23,Store 23,Houston,IL,USA,30-08-2018 00:00:00,136,"Houston, IL",2490
+24,Store 24,Phoenix,CA,USA,27-03-2017 00:00:00,22,"Phoenix, CA",3011
+25,Store 25,New York,IL,USA,31-01-2018 00:00:00,6,"New York, IL",2701
+26,Store 26,Houston,CA,USA,31-03-2017 00:00:00,185,"Houston, CA",3007
+27,Store 27,Houston,CA,USA,12-07-2015 00:00:00,104,"Houston, CA",3635
+28,Store 28,Houston,TX,USA,12-11-2019 00:00:00,36,"Houston, TX",2051
+29,Store 29,Chicago,IL,USA,12-06-2016 00:00:00,79,"Chicago, IL",3299
+30,Store 30,Los Angeles,TX,USA,27-01-2021 00:00:00,116,"Los Angeles, TX",1609
+31,Store 31,New York,CA,USA,08-09-2015 00:00:00,57,"New York, CA",3577
+32,Store 32,Phoenix,NY,USA,24-11-2019 00:00:00,49,"Phoenix, NY",2039
+33,Store 33,Phoenix,CA,USA,23-12-2023 00:00:00,173,"Phoenix, CA",549
+34,Store 34,Los Angeles,TX,USA,01-02-2022 00:00:00,82,"Los Angeles, TX",1239
+35,Store 35,Houston,IL,USA,19-07-2020 00:00:00,66,"Houston, IL",1801
+36,Store 36,New York,IL,USA,29-09-2021 00:00:00,77,"New York, IL",1364
+37,Store 37,Phoenix,TX,USA,12-10-2022 00:00:00,45,"Phoenix, TX",986
+38,Store 38,Phoenix,IL,USA,04-11-2018 00:00:00,79,"Phoenix, IL",2424
+39,Store 39,Houston,AZ,USA,13-03-2018 00:00:00,20,"Houston, AZ",2660
+40,Store 40,Los Angeles,NY,USA,03-09-2020 00:00:00,192,"Los Angeles, NY",1755
+41,Store 41,New York,NY,USA,08-06-2022 00:00:00,123,"New York, NY",1112
+42,Store 42,Los Angeles,NY,USA,01-01-2018 00:00:00,67,"Los Angeles, NY",2731
+43,Store 43,Los Angeles,IL,USA,03-05-2022 00:00:00,83,"Los Angeles, IL",1148
+44,Store 44,New York,IL,USA,22-01-2020 00:00:00,3,"New York, IL",1980
+45,Store 45,New York,CA,USA,31-08-2023 00:00:00,182,"New York, CA",663
+46,Store 46,Phoenix,CA,USA,19-05-2016 00:00:00,64,"Phoenix, CA",3323
+47,Store 47,Phoenix,NY,USA,10-06-2019 00:00:00,40,"Phoenix, NY",2206
+48,Store 48,New York,AZ,USA,11-07-2021 00:00:00,59,"New York, AZ",1444
+49,Store 49,Chicago,CA,USA,08-10-2021 00:00:00,183,"Chicago, CA",1355
+50,Store 50,Phoenix,CA,USA,21-12-2021 00:00:00,62,"Phoenix, CA",1281

@@ -1,0 +1,201 @@
+EmployeeID,FirstName,LastName,Position,HireDate,Salary,SupervisorID,Tenure,Position Grouping
+1,Jane,Jones,Cashier,27-03-2020 00:00:00,58023.16,8,1915,Cashier
+2,Jane,Garcia,Manager,27-09-2016 00:00:00,68877.44,82,3192,Manager
+3,Mike,Johnson,Manager,16-01-2017 00:00:00,64372.23,167,3081,Manager
+4,John,Jones,Manager,11-03-2022 00:00:00,71836.6,99,1201,Manager
+5,John,Garcia,Cashier,10-10-2023 00:00:00,80213.73,59,623,Cashier
+6,Jane,Brown,Stock Clerk,14-12-2020 00:00:00,81787.34,128,1653,Other
+7,David,Jones,Manager,26-06-2020 00:00:00,36139.83,77,1824,Manager
+8,Emily,Brown,Stock Clerk,06-12-2022 00:00:00,78217.29,49,931,Other
+9,Jane,Smith,Sales Associate,20-06-2022 00:00:00,34590.44,148,1100,Sales
+10,John,Garcia,Stock Clerk,27-12-2021 00:00:00,91511.75,30,1275,Other
+11,Mike,Johnson,Stock Clerk,06-09-2017 00:00:00,58147.5,65,2848,Other
+12,Emily,Williams,Stock Clerk,24-06-2017 00:00:00,42590.92,73,2922,Other
+13,Sarah,Williams,Stock Clerk,14-08-2018 00:00:00,34480.68,129,2506,Other
+14,Sarah,Brown,Manager,24-10-2022 00:00:00,84763.11,86,974,Manager
+15,Mike,Brown,Manager,29-05-2021 00:00:00,77941.38,43,1487,Manager
+16,Mike,Smith,Cashier,03-09-2016 00:00:00,44077.77,113,3216,Cashier
+17,Mike,Garcia,Sales Associate,11-12-2023 00:00:00,73304.71,51,561,Sales
+18,David,Johnson,Stock Clerk,04-08-2022 00:00:00,59066.92,88,1055,Other
+19,Mike,Williams,Manager,14-02-2015 00:00:00,78400.31,170,3783,Manager
+20,David,Garcia,Manager,02-03-2015 00:00:00,30882.5,11,3767,Manager
+21,David,Johnson,Manager,04-09-2018 00:00:00,95650.75,139,2485,Manager
+22,Emily,Brown,Manager,18-05-2018 00:00:00,58722.77,32,2594,Manager
+23,David,Jones,Manager,14-11-2023 00:00:00,55054,50,588,Manager
+24,Mike,Williams,Cashier,19-11-2017 00:00:00,73285.43,25,2774,Cashier
+25,David,Smith,Cashier,18-04-2022 00:00:00,64410.48,7,1163,Cashier
+26,Jane,Johnson,Sales Associate,18-07-2023 00:00:00,50101.67,84,707,Sales
+27,Mike,Brown,Manager,15-01-2018 00:00:00,38358.57,194,2717,Manager
+28,John,Johnson,Cashier,26-08-2017 00:00:00,97344.6,178,2859,Cashier
+29,David,Smith,Manager,19-02-2015 00:00:00,56796.64,154,3778,Manager
+30,David,Smith,Stock Clerk,26-04-2019 00:00:00,93933.58,178,2251,Other
+31,Mike,Jones,Cashier,17-10-2018 00:00:00,49319.27,74,2442,Cashier
+32,Jane,Brown,Manager,17-10-2017 00:00:00,56393.21,30,2807,Manager
+33,John,Johnson,Manager,26-08-2020 00:00:00,62073.4,160,1763,Manager
+34,Mike,Johnson,Sales Associate,09-02-2023 00:00:00,48688.79,16,866,Sales
+35,Jane,Jones,Cashier,21-07-2022 00:00:00,61299.14,19,1069,Cashier
+36,David,Williams,Sales Associate,11-05-2021 00:00:00,34220.73,143,1505,Sales
+37,Mike,Garcia,Cashier,03-04-2019 00:00:00,58917.29,19,2274,Cashier
+38,Mike,Jones,Stock Clerk,16-10-2021 00:00:00,41809.65,129,1347,Other
+39,Sarah,Jones,Stock Clerk,23-06-2017 00:00:00,47457.12,172,2923,Other
+40,Jane,Garcia,Stock Clerk,02-04-2015 00:00:00,78703.17,169,3736,Other
+41,Sarah,Smith,Stock Clerk,14-08-2023 00:00:00,76523.5,57,680,Other
+42,Jane,Smith,Manager,19-12-2023 00:00:00,42351.27,138,553,Manager
+43,Sarah,Smith,Sales Associate,06-12-2015 00:00:00,57674.76,66,3488,Sales
+44,Mike,Johnson,Manager,17-01-2015 00:00:00,70487.5,90,3811,Manager
+45,Jane,Smith,Sales Associate,16-08-2021 00:00:00,56536.14,93,1408,Sales
+46,Jane,Garcia,Manager,22-12-2021 00:00:00,38213.49,158,1280,Manager
+47,Emily,Brown,Sales Associate,10-08-2017 00:00:00,79269.57,154,2875,Sales
+48,Mike,Smith,Cashier,01-10-2023 00:00:00,75602.92,48,632,Cashier
+49,Sarah,Smith,Stock Clerk,06-07-2021 00:00:00,88564.93,117,1449,Other
+50,David,Jones,Stock Clerk,16-01-2020 00:00:00,75005.42,137,1986,Other
+51,David,Smith,Stock Clerk,13-10-2018 00:00:00,98560.17,56,2446,Other
+52,Mike,Jones,Sales Associate,06-01-2016 00:00:00,65586.35,141,3457,Sales
+53,John,Brown,Manager,12-02-2017 00:00:00,69761.29,35,3054,Manager
+54,Emily,Brown,Sales Associate,17-03-2020 00:00:00,40833.43,53,1925,Sales
+55,Mike,Williams,Cashier,04-08-2020 00:00:00,46250.72,175,1785,Cashier
+56,Jane,Garcia,Cashier,17-01-2019 00:00:00,45765.48,58,2350,Cashier
+57,Emily,Garcia,Stock Clerk,12-05-2022 00:00:00,46209,176,1139,Other
+58,David,Smith,Cashier,03-04-2015 00:00:00,87557,34,3735,Cashier
+59,Jane,Williams,Stock Clerk,21-03-2022 00:00:00,54741.74,92,1191,Other
+60,Emily,Johnson,Stock Clerk,06-09-2021 00:00:00,62359.82,94,1387,Other
+61,Mike,Johnson,Stock Clerk,29-10-2017 00:00:00,83813.56,91,2795,Other
+62,David,Williams,Cashier,04-08-2016 00:00:00,91807.24,111,3246,Cashier
+63,Mike,Williams,Cashier,23-12-2017 00:00:00,92569.48,91,2740,Cashier
+64,John,Smith,Cashier,29-07-2022 00:00:00,33434.95,177,1061,Cashier
+65,Sarah,Smith,Manager,09-02-2022 00:00:00,60217.32,116,1231,Manager
+66,Emily,Johnson,Sales Associate,07-12-2015 00:00:00,70233.62,42,3487,Sales
+67,John,Johnson,Sales Associate,07-05-2022 00:00:00,89555.66,59,1144,Sales
+68,John,Johnson,Sales Associate,21-09-2015 00:00:00,84890.01,88,3564,Sales
+69,John,Williams,Sales Associate,20-01-2019 00:00:00,55327.16,24,2347,Sales
+70,Mike,Johnson,Stock Clerk,05-06-2018 00:00:00,35191.03,151,2576,Other
+71,Emily,Garcia,Sales Associate,03-08-2017 00:00:00,68674.77,129,2882,Sales
+72,Sarah,Williams,Manager,05-11-2023 00:00:00,38709.03,80,597,Manager
+73,Jane,Brown,Stock Clerk,06-05-2015 00:00:00,72668.31,10,3702,Other
+74,John,Brown,Stock Clerk,26-03-2018 00:00:00,36170.83,166,2647,Other
+75,Emily,Brown,Manager,18-01-2021 00:00:00,38867.78,100,1618,Manager
+76,David,Brown,Cashier,24-10-2022 00:00:00,53286.8,94,974,Cashier
+77,John,Brown,Sales Associate,25-06-2021 00:00:00,62111.56,139,1460,Sales
+78,David,Brown,Manager,03-09-2021 00:00:00,83616.86,162,1390,Manager
+79,Emily,Smith,Cashier,23-06-2019 00:00:00,35131.04,200,2193,Cashier
+80,Sarah,Williams,Cashier,22-12-2016 00:00:00,91724.27,87,3106,Cashier
+81,John,Smith,Cashier,06-03-2016 00:00:00,31417.44,96,3397,Cashier
+82,Sarah,Garcia,Cashier,22-02-2023 00:00:00,64437.92,6,853,Cashier
+83,David,Smith,Stock Clerk,08-09-2019 00:00:00,51506.53,181,2116,Other
+84,David,Garcia,Sales Associate,31-01-2020 00:00:00,90443.82,59,1971,Sales
+85,David,Brown,Cashier,17-10-2020 00:00:00,73401.15,45,1711,Cashier
+86,Emily,Smith,Sales Associate,14-08-2016 00:00:00,85299.88,104,3236,Sales
+87,Sarah,Brown,Stock Clerk,15-07-2018 00:00:00,90055.39,199,2536,Other
+88,Jane,Smith,Stock Clerk,22-09-2023 00:00:00,31195.55,97,641,Other
+89,Mike,Garcia,Stock Clerk,23-09-2019 00:00:00,82638.96,189,2101,Other
+90,David,Jones,Sales Associate,18-08-2017 00:00:00,53862.81,83,2867,Sales
+91,Jane,Williams,Manager,08-03-2023 00:00:00,42451.56,165,839,Manager
+92,Emily,Johnson,Stock Clerk,22-03-2017 00:00:00,40512.88,68,3016,Other
+93,John,Williams,Manager,16-10-2018 00:00:00,50898.23,187,2443,Manager
+94,Mike,Johnson,Stock Clerk,18-02-2021 00:00:00,62143.53,177,1587,Other
+95,Emily,Jones,Manager,15-03-2019 00:00:00,83321.19,48,2293,Manager
+96,John,Brown,Sales Associate,14-02-2022 00:00:00,58718.1,119,1226,Sales
+97,Sarah,Johnson,Manager,04-01-2020 00:00:00,46991.33,169,1998,Manager
+98,Mike,Williams,Manager,17-01-2022 00:00:00,47925.12,161,1254,Manager
+99,Emily,Williams,Stock Clerk,10-11-2022 00:00:00,31609.72,200,957,Other
+100,Mike,Garcia,Sales Associate,26-06-2023 00:00:00,68541.2,141,729,Sales
+101,Mike,Jones,Sales Associate,15-01-2021 00:00:00,75231.57,157,1621,Sales
+102,David,Garcia,Cashier,30-09-2021 00:00:00,56825.43,101,1363,Cashier
+103,John,Johnson,Stock Clerk,08-03-2016 00:00:00,86416.65,63,3395,Other
+104,Jane,Brown,Sales Associate,24-07-2018 00:00:00,88829.29,114,2527,Sales
+105,Sarah,Brown,Cashier,21-07-2018 00:00:00,57817.89,175,2530,Cashier
+106,Mike,Smith,Manager,02-05-2019 00:00:00,61820.31,167,2245,Manager
+107,Jane,Smith,Sales Associate,27-09-2023 00:00:00,99124.91,122,636,Sales
+108,John,Garcia,Cashier,31-03-2015 00:00:00,32321.12,55,3738,Cashier
+109,Emily,Brown,Manager,05-03-2016 00:00:00,75733.37,29,3398,Manager
+110,Mike,Johnson,Manager,23-01-2018 00:00:00,35469.69,119,2709,Manager
+111,David,Johnson,Cashier,12-06-2022 00:00:00,75271.19,98,1108,Cashier
+112,Emily,Williams,Manager,28-12-2022 00:00:00,34925.93,144,909,Manager
+113,Jane,Williams,Manager,18-10-2021 00:00:00,49108.42,45,1345,Manager
+114,David,Smith,Manager,17-05-2022 00:00:00,70012.51,145,1134,Manager
+115,Emily,Johnson,Manager,18-01-2018 00:00:00,43482.91,99,2714,Manager
+116,Jane,Smith,Stock Clerk,11-10-2022 00:00:00,98069.4,142,987,Other
+117,John,Johnson,Cashier,19-12-2019 00:00:00,58161.28,120,2014,Cashier
+118,Emily,Smith,Stock Clerk,15-08-2019 00:00:00,69800.57,97,2140,Other
+119,David,Johnson,Manager,18-03-2017 00:00:00,68080.15,176,3020,Manager
+120,John,Garcia,Sales Associate,02-01-2017 00:00:00,41200.61,183,3095,Sales
+121,Sarah,Williams,Stock Clerk,07-08-2016 00:00:00,81418.3,28,3243,Other
+122,Sarah,Jones,Cashier,20-08-2015 00:00:00,42331.48,71,3596,Cashier
+123,David,Jones,Cashier,04-04-2023 00:00:00,62274.94,80,812,Cashier
+124,Emily,Smith,Cashier,18-04-2019 00:00:00,66484.38,66,2259,Cashier
+125,Jane,Brown,Cashier,08-07-2023 00:00:00,38235.73,179,717,Cashier
+126,Jane,Williams,Manager,18-10-2017 00:00:00,80905.49,36,2806,Manager
+127,Sarah,Garcia,Stock Clerk,26-01-2020 00:00:00,97008.56,15,1976,Other
+128,John,Garcia,Stock Clerk,07-12-2022 00:00:00,46592.05,150,930,Other
+129,Mike,Brown,Stock Clerk,01-05-2018 00:00:00,30064.93,149,2611,Other
+130,David,Williams,Cashier,23-08-2017 00:00:00,56533.29,66,2862,Cashier
+131,Sarah,Smith,Manager,15-04-2016 00:00:00,81332.07,75,3357,Manager
+132,Jane,Johnson,Manager,27-05-2023 00:00:00,78037.47,173,759,Manager
+133,John,Johnson,Stock Clerk,04-08-2021 00:00:00,32771.22,114,1420,Other
+134,Emily,Williams,Stock Clerk,08-07-2021 00:00:00,31489.92,42,1447,Other
+135,Sarah,Johnson,Manager,23-09-2021 00:00:00,53658.41,2,1370,Manager
+136,Sarah,Williams,Cashier,04-09-2019 00:00:00,51342.6,10,2120,Cashier
+137,Jane,Jones,Manager,13-11-2019 00:00:00,58151.55,26,2050,Manager
+138,Jane,Smith,Stock Clerk,19-06-2017 00:00:00,87733.27,66,2927,Other
+139,John,Williams,Manager,17-01-2020 00:00:00,65788.37,194,1985,Manager
+140,David,Smith,Sales Associate,17-04-2022 00:00:00,92057.15,120,1164,Sales
+141,John,Brown,Stock Clerk,15-06-2018 00:00:00,73887.1,194,2566,Other
+142,John,Williams,Stock Clerk,25-01-2018 00:00:00,36232.06,56,2707,Other
+143,David,Smith,Manager,30-01-2016 00:00:00,64913.96,14,3433,Manager
+144,Emily,Smith,Cashier,05-07-2015 00:00:00,31657.36,186,3642,Cashier
+145,David,Smith,Sales Associate,15-04-2021 00:00:00,59053.92,189,1531,Sales
+146,Jane,Williams,Manager,27-09-2020 00:00:00,59402.92,52,1731,Manager
+147,Emily,Smith,Manager,24-02-2018 00:00:00,83280.2,199,2677,Manager
+148,Emily,Williams,Sales Associate,12-10-2019 00:00:00,65587.44,34,2082,Sales
+149,Emily,Smith,Sales Associate,20-02-2018 00:00:00,86155.82,65,2681,Sales
+150,Mike,Garcia,Manager,18-10-2019 00:00:00,61636.98,157,2076,Manager
+151,Emily,Jones,Stock Clerk,22-05-2020 00:00:00,63026.04,59,1859,Other
+152,David,Smith,Stock Clerk,08-07-2022 00:00:00,98103.92,123,1082,Other
+153,Mike,Williams,Cashier,08-10-2021 00:00:00,73961.63,31,1355,Cashier
+154,David,Williams,Sales Associate,31-01-2015 00:00:00,46378.18,117,3797,Sales
+155,Emily,Jones,Manager,14-03-2023 00:00:00,31595.44,149,833,Manager
+156,David,Smith,Sales Associate,17-08-2015 00:00:00,67302.34,131,3599,Sales
+157,Jane,Smith,Stock Clerk,23-09-2022 00:00:00,50424.07,9,1005,Other
+158,Jane,Smith,Sales Associate,15-06-2020 00:00:00,83196.64,82,1835,Sales
+159,John,Brown,Stock Clerk,24-09-2019 00:00:00,66601.72,37,2100,Other
+160,Jane,Jones,Cashier,06-08-2019 00:00:00,68759.95,104,2149,Cashier
+161,John,Johnson,Sales Associate,27-05-2022 00:00:00,65737.52,98,1124,Sales
+162,Jane,Brown,Cashier,28-02-2022 00:00:00,95884.86,180,1212,Cashier
+163,David,Jones,Stock Clerk,13-08-2021 00:00:00,62762.1,58,1411,Other
+164,Jane,Brown,Cashier,24-04-2022 00:00:00,43546.62,69,1157,Cashier
+165,Jane,Johnson,Sales Associate,14-03-2017 00:00:00,83712.93,139,3024,Sales
+166,Jane,Johnson,Stock Clerk,05-10-2020 00:00:00,94321.5,63,1723,Other
+167,John,Brown,Cashier,22-01-2017 00:00:00,96398.62,97,3075,Cashier
+168,Mike,Brown,Stock Clerk,21-02-2023 00:00:00,76893.8,171,854,Other
+169,Emily,Garcia,Manager,31-07-2017 00:00:00,40573.64,190,2885,Manager
+170,Sarah,Garcia,Manager,06-06-2019 00:00:00,31228.71,28,2210,Manager
+171,Jane,Johnson,Manager,03-05-2023 00:00:00,73095.76,12,783,Manager
+172,Mike,Williams,Manager,05-12-2019 00:00:00,98651.37,12,2028,Manager
+173,Jane,Smith,Cashier,01-10-2018 00:00:00,47944.69,174,2458,Cashier
+174,Sarah,Johnson,Sales Associate,11-02-2020 00:00:00,56537.48,179,1960,Sales
+175,John,Williams,Sales Associate,20-10-2023 00:00:00,35444.36,78,613,Sales
+176,John,Johnson,Sales Associate,23-04-2023 00:00:00,64869.52,159,793,Sales
+177,John,Smith,Sales Associate,16-11-2021 00:00:00,68770.47,135,1316,Sales
+178,Emily,Brown,Sales Associate,21-12-2018 00:00:00,75395.27,19,2377,Sales
+179,John,Jones,Stock Clerk,04-10-2022 00:00:00,41132.87,110,994,Other
+180,David,Smith,Stock Clerk,17-03-2020 00:00:00,85552.1,180,1925,Other
+181,Mike,Brown,Manager,26-11-2016 00:00:00,83054.29,36,3132,Manager
+182,David,Brown,Sales Associate,08-06-2018 00:00:00,81144.68,66,2573,Sales
+183,Jane,Jones,Cashier,08-12-2019 00:00:00,95964.46,118,2025,Cashier
+184,Mike,Brown,Stock Clerk,07-01-2017 00:00:00,82098.09,99,3090,Other
+185,David,Smith,Manager,08-03-2020 00:00:00,72988,120,1934,Manager
+186,David,Smith,Sales Associate,05-11-2018 00:00:00,31421.18,15,2423,Sales
+187,Jane,Jones,Sales Associate,24-12-2023 00:00:00,49889.69,157,548,Sales
+188,Emily,Williams,Manager,15-01-2020 00:00:00,57155.7,93,1987,Manager
+189,Mike,Williams,Cashier,11-08-2021 00:00:00,56485.26,150,1413,Cashier
+190,Mike,Brown,Cashier,01-02-2023 00:00:00,80130.07,97,874,Cashier
+191,Jane,Johnson,Sales Associate,17-10-2017 00:00:00,65080.14,108,2807,Sales
+192,Jane,Smith,Manager,10-03-2021 00:00:00,49482.59,194,1567,Manager
+193,Emily,Johnson,Manager,16-10-2018 00:00:00,53111.3,6,2443,Manager
+194,Sarah,Johnson,Stock Clerk,27-12-2023 00:00:00,77047.8,56,545,Other
+195,Mike,Jones,Manager,30-01-2016 00:00:00,94351.49,145,3433,Manager
+196,Sarah,Garcia,Stock Clerk,22-05-2016 00:00:00,68359.45,160,3320,Other
+197,Sarah,Brown,Sales Associate,20-07-2015 00:00:00,94081.25,113,3627,Sales
+198,Sarah,Smith,Sales Associate,07-03-2021 00:00:00,49946.88,189,1570,Sales
+199,Emily,Garcia,Sales Associate,20-11-2022 00:00:00,72784.08,147,947,Sales
+200,Mike,Garcia,Manager,28-12-2022 00:00:00,39909.26,0,909,Manager
