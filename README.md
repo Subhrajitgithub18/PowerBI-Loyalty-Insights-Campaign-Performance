@@ -44,7 +44,7 @@ Explore visuals by:
 - Store location (State/City)
 - Campaign performance
 
-🔗 [Dashboard Preview](#) *(Insert dashboard image or Power BI link if possible)*
+🔗 [Dashboard Preview](https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Screenshot%202025-06-28%20213716.png) *(Insert dashboard image or Power BI link if possible)*
 
 ## 🧩 Key Visuals:
 - CLV by Loyalty Tier and Product Category (Clustered Column Chart)
@@ -53,7 +53,7 @@ Explore visuals by:
 - CLV by Store, State, and City (Bar and Column Charts)
 
 ## 👨‍💻 Contributors:
-- Subhrajit Swain
+- Subhrajit Swain (Myself)
 - Sreeyans Padhi
 - Ankeet Kumar Sah
 - Rahul Kumar Mahto
