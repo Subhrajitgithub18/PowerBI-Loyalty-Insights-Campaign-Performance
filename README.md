@@ -18,7 +18,7 @@ The project used 10 datasets covering:
 - Employees
 - Transactions and more
 
-🔗 [Download Datasets](#) *(Provide link if public or placeholder if private)*
+🔗 [Download Datasets](https://github.com/Subhrajitgithub18/PowerBI-Loyalty-Insights-Campaign-Performance/blob/main/Customer_Segmentation_Report%20(3)%20-%20Copy.zip)
 
 ## ❓ KPIs / Business Questions:
 - How does loyalty tier impact CLV, frequency, and spend?
